@@ -77,6 +77,3 @@ Este projeto reforça conceitos essenciais para trabalhar com requisições ass�
 ## Créditos
 Projeto desenvolvido com base no curso de **Jonas Schmedtmann** na Udemy.
 
----
-🚀 Bons estudos e feliz codificação! 🎉
-
